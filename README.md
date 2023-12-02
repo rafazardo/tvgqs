@@ -21,7 +21,7 @@ Please, cite:
 ```
 @misc { zardo_fiorio_feijo_2023,
  title={TVGQS}
- author={Zardo, Rafael; Fiorio, Pedro and dos Santos, André F.},
+ author={Zardo, Rafael; Fiorio, Pedro and dos Santos, André Luiz F.},
   year = {2023},
   publisher = {GitHub},
   journal = {GitHub repository},
