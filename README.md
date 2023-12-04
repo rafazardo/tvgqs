@@ -1,6 +1,6 @@
 # TVGQS Dataset
  
-The TVGQS (Tagged VideoGame Quests Sequences) is a dataset containing mutiple quests dialogues. The dataset is a .txt file, in which each line represents a quest dialogue. It (currently) contains 457 pieces, obtained from [LIGHT](https://paperswithcode.com/dataset/light-quests) datset; The Torchlight datset from [videogame text corpora](https://github.com/hmi-utwente/video-game-text-corpora); [Quest Description Generator](https://www.fantasynamegenerators.com/quest-descriptions.php) and some [ChatGPT](https://chat.openai.com/)-generated (usually, these ones are only the quest objective, having no context).
+The TVGQS (Tagged VideoGame Quests Sequences) is a dataset containing mutiple quests dialogues. The dataset is a .txt file, in which each line represents a quest sentences. It (currently) contains 457 pieces, obtained from [LIGHT](https://paperswithcode.com/dataset/light-quests) datset; The Torchlight datset from [videogame text corpora](https://github.com/hmi-utwente/video-game-text-corpora); [Quest Description Generator](https://www.fantasynamegenerators.com/quest-descriptions.php) and some [ChatGPT](https://chat.openai.com/)-generated (usually, these ones are only the quest objective, having no context).
 
 # Data Annotation
 
